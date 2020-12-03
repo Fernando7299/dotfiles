@@ -1,0 +1,8 @@
+# Python 
+__pycache__/
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
