@@ -1,0 +1,8 @@
+# Env vars
+export PATH=$HOME/.local/bin:$PATH
+export _JAVA_AWT_WM_NONREPARENTING=1
+
+xsettingsd &
+picom &
+nm-applet &
+udiskie -t &
