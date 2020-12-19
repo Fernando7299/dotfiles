@@ -18,7 +18,7 @@ alias cat='ccat -G Plaintext="blink" -G Keyword="purple" -G String="darkgreen" -
 alias tree='exa -aT --color=always --group-directories-first'
 
 ## Mostrar archivos ' ls '
-alias ls='exa --group-directories-first'
+alias ls='exa --icons --group-directories-first'
 
 
 ## Color a ' grep '
