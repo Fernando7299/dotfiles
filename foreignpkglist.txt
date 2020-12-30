@@ -1,0 +1,7 @@
+brave-bin
+ccat
+nerd-fonts-ubuntu-mono
+pikaur
+pspp
+sc-im
+simple-mtpfs
