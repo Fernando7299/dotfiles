@@ -1,5 +1,3 @@
-# Qtile keybindings
-
 from libqtile.config import Key
 from libqtile.command import lazy
 
@@ -53,6 +51,7 @@ keys = [Key(key[0], key[1], *key[2:]) for key in [
 
     # Lanzador Rofi
     ([mod], "space", lazy.spawn("rofi -show drun")),
+    # ([mod, "control"], "space", lazy.spawn("rofi -show drun -run-command 'sudo {cmd}'")),
 
     # Cambiar ventanas Rofi
     ([mod, "shift"], "space", lazy.spawn("rofi -show")),
