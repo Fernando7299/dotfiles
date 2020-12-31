@@ -6,7 +6,7 @@ Para poder usar los pluggins, instala [vim-plug](https://github.com/junegunn/vim
 ```
 sudo pacman -S nodejs npm python python-pip
 #
-pip install neovim
+sudo pip install neovim
 sudo npm i -g neovim
 ```
 - jedi
